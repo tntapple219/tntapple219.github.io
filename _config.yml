@@ -3,3 +3,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-include-cache
+footer: "© 2025 TNTAPPLE. Licensed under the MIT License. 感謝你的支持！"
