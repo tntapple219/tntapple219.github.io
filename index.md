@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: home
 title: TNTAPPLE 的數字遊樂場
 ---
 
@@ -29,15 +29,14 @@ title: TNTAPPLE 的數字遊樂場
 
 ## 🌐 找到我的足跡：
 
-想跟我連結？或者看我分享的有趣內容？來這裡找我吧！
-
-- ▶️ **YouTube**：[我的頻道](https://www.youtube.com/@%E7%82%B8%E5%BD%88%E8%98%8B%E6%9E%9C)
-- 🐦 **X (Twitter)**：[@Space\_TNTApple](https://x.com/Space_TNTApple)
-- 📝 **我的部落格**：[TNTAPPLE's Blog](https://blog.tntappleserver.xyz)
-- 🐙 **GitHub**：[tntapple219](https://github.com/tntapple219)
+<ul class="social">
+  <li><a href="https://www.youtube.com/@%E7%82%B8%E5%BD%88%E8%98%8B%E6%9E%9C" aria-label="YouTube">▶️ YouTube</a></li>
+  <li><a href="https://x.com/Space_TNTApple" aria-label="X Twitter">🐦 X (Twitter)</a></li>
+  <li><a href="https://blog.tntappleserver.xyz" aria-label="Blog">📝 我的部落格</a></li>
+  <li><a href="https://github.com/tntapple219" aria-label="GitHub">🐙 GitHub</a></li>
+</ul>
 
 ---
 
 > 感謝您的到訪，希望您玩得開心！別忘了留下一顆星！⭐  
 > — By TNTAPPLE 🍏
-
