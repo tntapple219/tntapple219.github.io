@@ -3,3 +3,4 @@ plugins:
   - jekyll-seo-tag
   - jekyll-paginate
   - jekyll-include-cache
+minimal_mistakes_skin: "dark" # 啟用深色模式！
